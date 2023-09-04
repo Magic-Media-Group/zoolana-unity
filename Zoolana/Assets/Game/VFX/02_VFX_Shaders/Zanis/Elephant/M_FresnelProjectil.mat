@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7343280942904828806
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_FresnelProjectil
+  m_Shader: {fileID: -6465566751694194690, guid: 063e9b6435ea83d4985862d5cf8b5405, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_1831f7959ded4fa3be526256e3c2a91f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a83c8c61f21f69f43a6bb5e92d7f38ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_71de8cf145c243c5b6860a02cb1af884_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 103ca9643a8d3ff49a4d155f038ef30e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_80584d528a67440794cf0f78053b3bd0_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4fb76a375ad1b874f9be5604cdfd3c24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_98f4441e0d6a4ef5b1cb736b8eb2ddb6_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 80caf88b6b2c6814bafb9f29599c06f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9b3ce467dd724607b8ac6eb3906bd382_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d17849f633ef7924792ce496b2c3940d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f4b2f260a408420fbc399b866395eebc_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d70d21b78b1f2774c87eeb5c38644fee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f8f819eeb64c42df824306ac124f02d2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0bf059ca9ad9b9c46a555ab40526f538, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DirtherFresnel: 0
+    - _DitherFresnel: -4.36
+    - _DitherMult: 1
+    - _Float: 0
+    - _Float_1: 17.13
+    - _FresnelPow: 0.8
+    - _Intensity: 6.87
+    - _MultDither: -6.72
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors: []
+  m_BuildTextureStacks: []

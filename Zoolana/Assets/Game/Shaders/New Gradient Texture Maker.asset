@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 459459e1cecdc2b44a37548decdcf27b, type: 3}
+  m_Name: New Gradient Texture Maker
+  m_EditorClassIdentifier: 
+  type: 0
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0.1201495, g: 0.13919805, b: 0.18867922, a: 1}
+    key1: {r: 0.41331434, g: 0.5211209, b: 0.6792453, a: 1}
+    key2: {r: 0.6534799, g: 0.7325905, b: 0.8396226, a: 0}
+    key3: {r: 0.70354223, g: 0.8401259, b: 0.9622642, a: 0}
+    key4: {r: 1, g: 1, b: 1, a: 0}
+    key5: {r: 1, g: 1, b: 1, a: 0}
+    key6: {r: 1, g: 1, b: 1, a: 0}
+    key7: {r: 1, g: 1, b: 1, a: 0}
+    ctime0: 0
+    ctime1: 12639
+    ctime2: 24420
+    ctime3: 37761
+    ctime4: 55003
+    ctime5: 65535
+    ctime6: 56329
+    ctime7: 56329
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 6
+    m_NumAlphaKeys: 2
+  width: 256
+  height: 32
+  targetTexture: {fileID: 2800000, guid: e873ff7971417fe4cac6bc27230af894, type: 3}
